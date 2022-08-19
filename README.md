@@ -1,8 +1,16 @@
-## Olá eu sou Gabriel Batistuta, estudante e Desenvolvedor WEB
-- 🔭 Hoje minha área é Desenvolvimento Web
-- 🌱 Estou aprendendo Angular
-- 💻 Estou cursando Ciência da Computação 
+<h1 align="center" >Olá  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
+![indo consertar o bug a cavalo](https://media.rockstargames.com/rockstargames-newsite/uploads/f69dd283089de47dc64ffaed153c77cdf8b95abe.gif)
+
+# Eu sou Gabriel Batistuta, estudante e Desenvolvedor WEB
+
+- 💻 ***Estou cursando Ciência da Computação na Universidade Estadual do Rio Grande do Norte***
+
+- 🔭 ***Hoje minha área é Desenvolvimento Web***
+
+- 🌱 ***Estou aprendendo Angular***
+
+- ⚡ ***Me interesso por cultura geek***
 ##
 
 <a href="https://github.com/gabriel-batistuta">
