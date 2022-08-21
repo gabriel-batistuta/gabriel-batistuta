@@ -1,6 +1,6 @@
 <h1 align="center" >Olá  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-![Suplex no Trem](https://64.media.tumblr.com/fdcd978775bcf05b6fb311225c8ee706/535b37e9803965c2-db/s540x810/9d888734147ccc36155df3c292168578c421e0ef.gifv)
+![Caveira mecânica](https://i.redd.it/ghm5wmnxk1971.gif)
 
 # Eu sou Gabriel Batistuta, estudante e Desenvolvedor WEB
 
