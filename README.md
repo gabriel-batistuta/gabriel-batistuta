@@ -1,7 +1,7 @@
 <h1 align="center" >Olá  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 ![Caveira mecânica](https://i.redd.it/ghm5wmnxk1971.gif)
-
+  
 # Eu sou Gabriel Batistuta, estudante e Desenvolvedor WEB
 
 - 💻 ***Estou cursando Ciência da Computação na Universidade Estadual do Rio Grande do Norte***
@@ -25,7 +25,7 @@
   <img align="center" alt="lang-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="lang-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="lang-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="right" alt="my-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/96501194?s=400&u=011b2a6f7f83f1cfeb46917962b0a522e27c0e8a&v=4">
+  <img align="right" alt="my-pic" height="150" style="border-radius:50px;" src="https://thumbs.gfycat.com/BelovedMadeupCockroach.webp">
 </div>
 
 ##
