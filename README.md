@@ -1,6 +1,6 @@
 <h1 align="center" >Olá  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-<img src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" height="300px" width="850px"> 
+![homem andando de cavalo](https://media.rockstargames.com/rockstargames-newsite/uploads/f69dd283089de47dc64ffaed153c77cdf8b95abe.gif)
 
 # Eu sou Gabriel Batistuta, estudante e Desenvolvedor WEB
 
