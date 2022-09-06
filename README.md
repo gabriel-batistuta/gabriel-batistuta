@@ -26,7 +26,7 @@
   <img align="center" alt="lang-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="lang-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="lang-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="right" alt="binary-boy" height="150" style="border-radius:50px;" src="https://thumbs.gfycat.com/BelovedMadeupCockroach.webp">
+  <img align="right" alt="binary-hacker" height="150" style="border-radius:50px;" src="https://thumbs.gfycat.com/BelovedMadeupCockroach.webp">
 </div>
 
 <div> 
