@@ -6,7 +6,7 @@
 
 - 💻 ***Estou cursando Ciência da Computação na Universidade Estadual do Rio Grande do Norte***
 
-- 🔭 ***Minha área é Desenvolvimento Web***
+- 🔭 ***Estudo Desenvolvimento Web***
 
 - 🌱 ***Estou aprendendo Angular***
 
