@@ -1,14 +1,14 @@
-<h1 align="center" >Olá  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center" >Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <img src="https://media.tenor.com/-wZAi-4EXugAAAAd/anime-keyboard.gif" height="350px" width="1200px">
 
 # Eu sou Gabriel, Estudante e Desenvolvedor Web
 
-- 💻 ***Estou cursando Ciência da Computação na Universidade Estadual do Rio Grande do Norte***
+- 💻 _Estou cursando_ **Ciência da Computação** na ***Universidade Estadual do Rio Grande do Norte***
 
-- 🔭 ***Estudo Desenvolvimento Web***
+- 🔭 _Estudo_ ***Desenvolvimento Web, Automação de dados e Linux***
 
-- 🌱 ***Estou aprendendo JavaScript, Python e Java***
+- 🌱 _Estou aprendendo_ ***JavaScript, Python e o que vier kkkk***
 
 - ⚡ ***Me interesso por cultura geek***
 
