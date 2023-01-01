@@ -6,7 +6,7 @@
 
 - 💻 _Estou cursando_ **Ciência da Computação** na ***Universidade Estadual do Rio Grande do Norte***
 
-- 🔭 _Estudo_ ***Desenvolvimento Web, Automação de dados e Linux***
+- 🔭 _Estudo_ ***Desenvolvimento Web, Automação de Dados e Linux***
 
 - 🌱 _Estou aprendendo_ ***JavaScript, Python e o que vier kkkk***
 
