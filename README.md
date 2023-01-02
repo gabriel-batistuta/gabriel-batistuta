@@ -1,6 +1,6 @@
 <h1 align="center" >Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-<img src="https://media.tenor.com/-wZAi-4EXugAAAAd/anime-keyboard.gif" height="350px" width="1200px">
+<img src="https://steamuserimages-a.akamaihd.net/ugc/776224753171382208/B88F06082153E8AF4ED9DE8A02A8B4AE4E9B3BC4/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" height="350px" width="1200px">
 
 # Eu sou Gabriel, Estudante e Desenvolvedor Web
 
