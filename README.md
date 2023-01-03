@@ -15,8 +15,8 @@
 # Tecnologias que uso
 
 <a href="https://github.com/gabriel-batistuta">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabriel-batistuta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-batistuta&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabriel-batistuta&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-batistuta&layout=compact&hide_border=true&hide=html,c%2B%2B,c&langs_count=6&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="lang-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
