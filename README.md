@@ -1,7 +1,7 @@
 # Hi, i'm Gabriel
 - 💻 _studying_ **Computer Science** on **UERN**
 
-- ⚡ currently studying **Data Engineering**
+- ⚡ constantly aspiring in the area of **data engineering**
 
 <hr>
 
