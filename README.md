@@ -1,4 +1,4 @@
-# Hello, i'm Gabriel
+# Hello, i'm Gabriel Batistuta
 - 💻 _studying_ **Computer Science** on **UERN**
 
 - ⚡ constantly aspiring in the area of **data engineering**
