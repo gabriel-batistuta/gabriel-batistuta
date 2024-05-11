@@ -2,7 +2,7 @@
 - 💻 _studying_ **Computer Science** on **UERN**
 
 - ⚡ constantly aspiring in the area of **data engineering**
-
+- 🗣️ Languages: 🇧🇷 🇺🇸
 <hr>
 
 <a href="https://github.com/gabriel-batistuta">
