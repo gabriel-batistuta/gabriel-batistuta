@@ -36,6 +36,8 @@ In 2024 I program mainly with [Python](https://en.wikipedia.org/wiki/Python_(pro
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -50,6 +52,46 @@ In 2024 I program mainly with [Python](https://en.wikipedia.org/wiki/Python_(pro
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+🌆 Daytime                904 commits         ████████████░░░░░░░░░░░░░   46.55 % 
+🌃 Evening                883 commits         ███████████░░░░░░░░░░░░░░   45.47 % 
+🌙 Night                  23 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   255 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Tuesday                  350 commits         █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+Wednesday                256 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Thursday                 202 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Friday                   348 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+Saturday                 296 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Sunday                   235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Fortaleza
+
+💬 Programming Languages: 
+Markdown                 16 mins             █████████████░░░░░░░░░░░░   51.45 % 
+YAML                     15 mins             ████████████░░░░░░░░░░░░░   48.55 % 
+
+🔥 Editors: 
+VS Code                  32 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+gabriel-batistuta        32 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    32 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -67,7 +109,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gabriel-batistuta/gabriel-batistuta/main/assets/bar_graph.png)
 
 
- Last Updated on 03/06/2024 03:10:06 UTC
+ Last Updated on 03/06/2024 03:14:57 UTC
 <!--END_SECTION:waka-->
 
 # Contact
