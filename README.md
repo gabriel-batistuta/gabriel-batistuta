@@ -8,12 +8,17 @@ I started studying programming in mid-2021 at the end of my high school, at the 
 
 In 2022 I started my academic training in [Computer Science](https://en.wikipedia.org/wiki/Computer_science) where I managed to join a PIBITI/PIBIC research project involving a web repository of Educational Robotics produced with [Angular](https://en.wikipedia.org/wiki/Angular_(web_framework)) and [Firebase](https://en.wikipedia.org/wiki/Firebase). I learned about these technologies and after a while my research changed its focus to feeding this system with more data, which is when I discovered [Data Engineering](https://en.wikipedia.org/wiki/Data_engineering), my focus this time was on searching for robot data (Arduino for example) on the web and adapting it to feed the system. It's still an area that I like and have invested my time in, I've learned in the meantime about: [Web Scraping](https://en.wikipedia.org/wiki/Web_scraping), [Web Crawler](https://en.wikipedia.org/wiki/Web_crawler), [Data Ingestion](https://www.ibm.com/blog/guide-to-data-ingestion/) and [Database Scalability](https://en.wikipedia.org/wiki/Database_scalability).
 
-In 2024 I program mainly with [Python](https://en.wikipedia.org/wiki/Python_(programming_language)), extracting, modeling, doing data ingestion and some APIs. My main station Current work environment is a PC with the following configuration: Xeon 2670v3 12cores 24threads, 16gb Ram Asgard 3600mhz, RX580 2048SP 8gb. On my cell phone I use [termux](https://en.wikipedia.org/wiki/Termux) to run my codes when I'm away from the PC. you can see my Ubuntu workstation configuration at [setups](https://github.com/gabriel-batistuta/setups). Fun fact: this PC can't handle opening 8 Chrome tabs in Selenium hahaha
+In 2024 I program mainly with [Python](https://en.wikipedia.org/wiki/Python_(programming_language)), extracting, modeling, doing data ingestion and some APIs. My main station Current work environment is a PC with the following configuration: Xeon 2670v3 12cores 24threads, 16gb Ram Asgard 3600mhz, RX580 2048SP 8gb. On my cell phone I use [termux](https://en.wikipedia.org/wiki/Termux) to run my codes when I'm away from the PC. you can see my Ubuntu workstation configuration at [setups](https://github.com/gabriel-batistuta/setups). **Fun fact: this PC can't handle opening 8 Chrome tabs in Selenium hahaha**
 
 <hr>
 
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+<!--END_SECTION:waka-->
+
 <a href="https://github.com/gabriel-batistuta">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel-batistuta&label=Profile%20views&color=0e75b6&style=flat" alt="tassid" /> </p>
   <img height="160em" src="https://github-readme-stats-gb9t.vercel.app/api?username=gabriel-batistuta&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-gb9t.vercel.app/api/top-langs/?username=gabriel-batistuta&layout=compact&hide_border=true&show_icons=true&langs_count=6&theme=github_dark&hide=cmake,c,scss,html,c%2B%2B,jupyter%20notebook"/>
 </div>
@@ -34,83 +39,6 @@ In 2024 I program mainly with [Python](https://en.wikipedia.org/wiki/Python_(pro
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60em" height="50em"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60em" height="50em"/>    
 </div>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 429 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 54 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-🌆 Daytime                904 commits         ████████████░░░░░░░░░░░░░   46.55 % 
-🌃 Evening                883 commits         ███████████░░░░░░░░░░░░░░   45.47 % 
-🌙 Night                  23 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   255 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Tuesday                  350 commits         █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-Wednesday                256 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Thursday                 202 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Friday                   348 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-Saturday                 296 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Sunday                   235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Fortaleza
-
-💬 Programming Languages: 
-Markdown                 16 mins             █████████████░░░░░░░░░░░░   51.45 % 
-YAML                     15 mins             ████████████░░░░░░░░░░░░░   48.55 % 
-
-🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-gabriel-batistuta        32 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    32 mins             █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   41 repos            ███████████░░░░░░░░░░░░░░   45.05 % 
-TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-Shell                    6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/gabriel-batistuta/gabriel-batistuta/main/assets/bar_graph.png)
-
-
- Last Updated on 03/06/2024 03:21:38 UTC
-<!--END_SECTION:waka-->
 
 # Contact
 <div>
