@@ -13,80 +13,12 @@ In 2024 I program mainly with [Python](https://en.wikipedia.org/wiki/Python_(pro
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-44%20mins-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 429 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 54 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-🌆 Daytime                904 commits         ████████████░░░░░░░░░░░░░   46.53 % 
-🌃 Evening                883 commits         ███████████░░░░░░░░░░░░░░   45.45 % 
-🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   256 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Tuesday                  350 commits         █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-Wednesday                256 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Thursday                 202 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Friday                   348 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-Saturday                 296 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Sunday                   235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-698748%20lines%20of%20code-blue)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Fortaleza
-
-💬 Programming Languages: 
-Markdown                 16 mins             █████████████░░░░░░░░░░░░   51.45 % 
-YAML                     15 mins             ████████████░░░░░░░░░░░░░   48.55 % 
-
-🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-gabriel-batistuta        32 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    32 mins             █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   41 repos            ███████████░░░░░░░░░░░░░░   45.05 % 
-TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-Shell                    6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/gabriel-batistuta/gabriel-batistuta/main/assets/bar_graph.png)
-
-
- Last Updated on 03/06/2024 03:42:52 UTC
+ Last Updated on 03/06/2024
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/gabriel-batistuta">
