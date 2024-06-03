@@ -36,7 +36,38 @@ In 2024 I program mainly with [Python](https://en.wikipedia.org/wiki/Python_(pro
 </div>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 429 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 54 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I Mostly Code in Python** 
+
+```text
+Python                   41 repos            ███████████░░░░░░░░░░░░░░   45.05 % 
+TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Shell                    6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/gabriel-batistuta/gabriel-batistuta/main/assets/bar_graph.png)
+
+
+ Last Updated on 03/06/2024 03:10:06 UTC
 <!--END_SECTION:waka-->
 
 # Contact
