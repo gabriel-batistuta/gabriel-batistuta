@@ -15,10 +15,10 @@ In 2024 I program mainly with [Python](https://en.wikipedia.org/wiki/Python_(pro
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-696016%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-694343%20lines%20of%20code-blue)
 
 
- Last Updated on 11/06/2024
+ Last Updated on 12/06/2024
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/gabriel-batistuta">
