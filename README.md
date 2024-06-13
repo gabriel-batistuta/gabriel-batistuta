@@ -1,6 +1,6 @@
 # Hello, i'm Gabriel Batistuta
 
-- [pt-br](https://github.com/gabriel-batistuta/gabriel-batistuta/pt-br.md)
+- [pt-br](./pt-br.md)
 
 My interest in the technology area came with my curiosity in wanting to translate GBA game roms with my first cell phone: [LG E405f](https://www.maiscelular.com.br/fichas-tecnicas/lg/optimus-l3/dual-e405/) (150mb space, 20mb ram, android 2.3) which was in 2015 where I learned a little hexadecimal to translate, even today I try to translate them again, these games entertained me because it was The only technology I had and the only games that ran were from very old consoles via emulators.
 
