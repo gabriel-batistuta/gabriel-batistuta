@@ -14,15 +14,6 @@ In 2024 I program mainly with [Python](https://en.wikipedia.org/wiki/Python_(pro
 
 <hr>
 
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-693914%20lines%20of%20code-blue)
-
-
- Last Updated on 05/07/2024
-<!--END_SECTION:waka-->
-
 <a href="https://github.com/gabriel-batistuta">
   <img height="160em" src="https://github-readme-stats-gb9t.vercel.app/api?username=gabriel-batistuta&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-gb9t.vercel.app/api/top-langs/?username=gabriel-batistuta&layout=compact&hide_border=true&show_icons=true&langs_count=6&theme=github_dark&hide=cmake,c,scss,html,c%2B%2B,jupyter%20notebook"/>
