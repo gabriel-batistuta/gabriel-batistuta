@@ -24,6 +24,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60em" height="50em"/>    
 </div>
 
+# Visitors
+
+<img src="https://count.getloli.com/@gabriel-batistuta?name=gabriel-batistuta&theme=rule34&padding=8&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>
+
 # Contact
 <div>
   <a href = "mailto:batistutag190@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
