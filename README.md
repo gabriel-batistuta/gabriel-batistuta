@@ -2,6 +2,12 @@
 
 <hr>
 
+* 🚀 **Experiência principal:** Automações e pipelines ETL voltados para Engenharia de Dados.
+* 📚 **Pesquisa acadêmica:** Atuação em Dados e Robótica Educacional, com artigos publicados em inglês — <a href="https://scholar.google.com/citations?user=XobgaicAAAAJ">Google Scholar</a>.
+* 🏢 **Startup:** Co-criador e desenvolvedor na Titan-Dev-RN.
+* 🧠 **Adaptabilidade:** Facilidade em aprender e aplicar novas tecnologias conforme a necessidade do projeto (exceto frontend).
+* 💻 **Projeto relevante**: <a href="https://github.com/gabriel-batistuta/avec_sheet">Sistema ETL que converte cerca de 500 planilhas em 5 arquivos utilizando a api do google sheet</a>
+
 <a href="https://github.com/gabriel-batistuta">
   <img height="160em" src="https://github-readme-stats-gb9t.vercel.app/api?username=gabriel-batistuta&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-gb9t.vercel.app/api/top-langs/?username=gabriel-batistuta&layout=compact&hide_border=true&show_icons=true&langs_count=6&theme=github_dark&hide=cmake,c,scss,html,c%2B%2B,jupyter%20notebook,plpgsql"/>
